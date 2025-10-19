@@ -1,0 +1,4 @@
+# ninja log v6
+8	203	1760732703760915469	build.ninja	802c088601b6d3ad
+3	1187	1760685327071147359	CMakeFiles/finalproject.dir/src/main.cpp.o	9c12507ae8c8bb9d
+8	203	1760732703757257071	/Users/abid/CLionProjects/finalproject/cmake-build-debug/cmake_install.cmake	802c088601b6d3ad
