@@ -19,7 +19,7 @@ cmake --build .
 ## Usage
 
 ```
-./recipe_manager
+./projectCTRL
 ```
 ## Author
 Abid Rey Magsambol - CIS 25 Final Project
